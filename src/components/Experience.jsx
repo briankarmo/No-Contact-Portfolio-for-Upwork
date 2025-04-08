@@ -13,7 +13,7 @@ import vite from '../assets/vite.png';  // Vite
 import nodeJS from '../assets/node.png';  // Node.js
 import express from '../assets/express.png'; // Express.js
 import nest from '../assets/nest.png'; // NestJS
-import mongo from '../assets/mongo.webp'; // MongoDB
+import mongo from '../assets/mongo.png'; // MongoDB
 import aws from '../assets/aws.png'; // AWS
 import php from '../assets/php.png'; // PHP
 import laravel from '../assets/laravel.png'; // Laravel
@@ -25,7 +25,7 @@ import chat from '../assets/chatGPT.png'; // ChatGPT API
 import tailwind from '../assets/tailwind.png'; // Tailwind CSS
 
 const techs = [
-  { id: 1, src: visual, title: "Visual Studio Code", style: "shadow-blue-500" },
+  { id: 1, src: visual, title: "Visual Studio Code", style: "shadow-purple-500" },
   { id: 2, src: html, title: "HTML5", style: "shadow-orange-600" },
   { id: 3, src: css, title: "CSS3", style: "shadow-blue-600" },
   { id: 4, src: javascript, title: "JavaScript", style: "shadow-yellow-500" },
